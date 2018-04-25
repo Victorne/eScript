@@ -1,4 +1,4 @@
-function importOrders(psInputs : PropertySet)
+﻿function importOrders(psInputs : PropertySet)
 {
 /*
  * Описание:
@@ -13,7 +13,7 @@ function importOrders(psInputs : PropertySet)
  * Исходящие аргументы:
  *
  * История изменений:
- * 08.12.2017 - AKONYUKH - создан.
+ * 08.12.2017 -  - создан.
  */
 
 	var psInput : PropertySet;
